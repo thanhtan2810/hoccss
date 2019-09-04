@@ -1,0 +1,11 @@
+.trangtri ol li{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: #FFCCCC	4px 3px 4px;
+    font-family: 'Times New Roman';/* đổi font chữ */;
+    font-style:  oblique /*(intalic in nghiêng) oblique chữ in nghiêng,normal bình thường*/;
+    font-weight: 100;
+    text-transform: capitalize;
+}
+/* block  : là phần tử sở hữu 1 hàng riêng biệt có thể tùy kích thước của block (div, h1,p,ul)
+inline : là các phần tử html khi tọa ra nó cow thể đứng trên cùng 1 hàng ( strong span a */
