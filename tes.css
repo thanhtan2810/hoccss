@@ -1,0 +1,12 @@
+.{
+    text-align: justify /*Căn lề văn bản *(left right center (justify)(đều 2 bên) */;
+    text-decoration: azure;/* thêm gạch chân gạch trên và gạch giữa văn bản((overline gạch trên đầu văn bản ) (underline gạc dưới văn bản) (line-throught gạch giữa văn bản) */;
+    text-indent: 1px;/*tạo khoảng trống bên tay trái văn bản (dấu âm sẽ bên phải )*/;
+    text-shadow: 1px;/*đổ bóng cho văn bản gồm (màu tọa độ xy và đổ bóng)*/;
+    text-transform:none /*tùy chỉnh hiển thị hoa hay thường cho văn bản  capitalize( in chữ hoa đầu văn bản) uppercase( in toàn bộ chữ hoa) lowercase(in toàn bộ chữ thường) normal(trở lại bình thường )*/; 
+}
+.trangtri {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: #FFCCCC	3px 4px  2px;
+    text-transform: capitalize;
