@@ -1,0 +1,22 @@
+div{
+    width: 130px;
+    height: 130px;
+}
+#box1{
+   text-align: center;
+    color: rgb(252, 247, 248);
+    margin: 10px;
+    background-color: red;
+}
+#box2{
+    text-align: center;
+    color: rgb(252, 247, 248);
+    margin-left: 10px;
+    background-color: red;
+    border: 6px ridge ; /* viền */
+    padding: 45px;
+
+}
+#hinh{
+    background-image: url('http://thuthuatphanmem.vn/uploads/2018/09/11/hinh-anh-dep-2_044126655.jpg')
+}

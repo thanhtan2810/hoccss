@@ -1,0 +1,22 @@
+
+#header{
+    background-color: aliceblue;
+    padding: 10px 25px;
+}
+#content{
+    background-color: cadetblue;
+    width: 1024px;
+    float: left;
+    padding: 1em;
+}
+#sidebar{
+    background: aqua;
+    width: 775px;
+    float: right;
+    padding: 1em;
+}
+#footer{
+    clear: both;
+    background-color: aquamarine;
+    padding: 1em;
+}
